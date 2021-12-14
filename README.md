@@ -1,9 +1,5 @@
 # SS-Datas
 
-```
-简体中文 | [English](README_en.md)
-```
-
 [遥感数据集仓库](README_CN.md)『Remote sensing datasets warehouse』
 
 SS-Datas is a collection of common datasets of deep learning in the field of remote sensing, including **image and basic annotation information**. Besides, source address and aistudio backup link of datasets are listed to download.
