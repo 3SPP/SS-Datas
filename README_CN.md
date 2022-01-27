@@ -6,4 +6,6 @@ SS-Datas是遥感影像领域常用的深度学习数据集的汇总，包括了
 
 数据集按影像类型分为**可见光、高光谱、SAR**三大类，按任务类型可分为**图像分类、图像分割、变化检测、目标检测、目标跟踪、多标签分类、图像生成**等
 
-[遥感数据集汇总](summary/RS-Data-summary.md)
+[遥感数据集汇总](RS-Data-summary.md)
+
+欢迎访问**3SPP**团队的[SS-Models](https://github.com/3SPP/SS-Models)、[SS-Examples](https://github.com/3SPP/SS-Examples)、[PdRSCD](https://github.com/3SPP/PdRSCD)、[SS-Datas](https://github.com/3SPP/SS-Datas)等项目仓库，探索更多遥感+AI 黑科技!
