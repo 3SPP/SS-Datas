@@ -9,3 +9,6 @@ SS-Datas是遥感影像领域常用的深度学习数据集的汇总，包括了
 [遥感数据集汇总](RS-Data-summary.md)
 
 欢迎访问**3SPP**团队的[SS-Models](https://github.com/3SPP/SS-Models)、[SS-Examples](https://github.com/3SPP/SS-Examples)、[PdRSCD](https://github.com/3SPP/PdRSCD)、[SS-Datas](https://github.com/3SPP/SS-Datas)等项目仓库，探索更多遥感+AI 黑科技!
+
+
+本项目已迁移到[PaddleRS](https://github.com/PaddleCV-SIG/PaddleRS/blob/develop/docs/data/dataset_cn.md)，该项目后续不再更新，欢迎访问新项目！
